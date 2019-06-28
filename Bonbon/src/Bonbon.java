@@ -12,6 +12,7 @@ public class Bonbon {
 		this.marque = marque;
 		this.name = name;
 	}
+//	Test SANSAN
 	
 
 }
